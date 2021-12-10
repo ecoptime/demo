@@ -1,1 +1,3 @@
-creation du fichier brache master
+creation du fichier brache master: modif 1
+
+ajout de2 ligne &:wq:wq
